@@ -75,8 +75,8 @@ Your data files should have the wavenumber (cm⁻¹) in column 1 and absorbance 
 If you are not comfortable editing code, you can let an AI assistant that runs code (for example, Claude with code execution turned on) adapt the method for you:
 
 1. Download the repository as a ZIP file (green **Code** button > **Download ZIP**).
-2. Put your replicate files in `my_data/` and zip the folder again.
-3. Upload both ZIP files and [`PROMPT.md`](PROMPT.md). to the AI model (e.g. ChatGPT)
+2. Unzip the folder and put your replicate files in `my_data/` and zip the folder again.
+3. Upload the ZIP file to your AI model (e.g. ChatGPT)
 4. Type 'Analyze my data in the chat'. 
 
 The prompt asks the AI to:
