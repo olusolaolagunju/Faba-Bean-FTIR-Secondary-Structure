@@ -76,7 +76,8 @@ If you are not comfortable editing code, you can let an AI assistant that runs c
 
 1. Download the repository as a ZIP file (green **Code** button > **Download ZIP**).
 2. Put your replicate files in `my_data/` and zip the folder again.
-3. Upload the ZIP to the AI model (eg ChatGPT) and paste the contents of [`PROMPT.md`](PROMPT.md).
+3. Upload both ZIP files and [`PROMPT.md`](PROMPT.md). to the AI model (e.g. ChatGPT)
+4. Type 'Analyze my data in the chat'. 
 
 The prompt asks the AI to:
 - check that it reproduces the example values;
